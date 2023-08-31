@@ -56,7 +56,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>             
-   <a href="https://github.com/Arwindhraj"><img alt="Arwindhraj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arwindhraj&custom_title='s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Arwindhraj">Recent Activity</a>
   <br/>
 </details>
 
