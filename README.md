@@ -1,6 +1,3 @@
-# Personalized-AI Mimir
-Every thing has  a begining
-
 
 <h1 align='center'> Hi there! I'm Arwindhraj <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
