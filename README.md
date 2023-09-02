@@ -4,8 +4,11 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=268C10&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+of+AI%26DS;Passionate+about+AI+and+Computer+Vision;Interested+in+R%26D+Projects" /></a>
-</p>    
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=268CFF&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+of+AI+%26+DS;Passionate+about+AI+and+Computer+Vision" />
+  </a>
+</p>
+   
 
 <a href="https://www.linkedin.com/in/arwindh-raj-0155b621a/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
