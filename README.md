@@ -13,6 +13,9 @@
 <a href="mailto:arwindh64@gmail.com">       
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="your-twitter-URL">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
 
 - 👋 Hi, I’m Arwindhraj
 - 🎓 I am a student in the field of AI & Data Science.
@@ -39,26 +42,19 @@
   
 
 
-<h2> GitHub Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<h2> GitHub Stats </h2>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Arwindhraj/github-readme-stats"><img alt="Arwindhraj Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arwindhraj&show_icons=true&theme=dark"/ height="192px"/></a>
-    <br/>
-    &nbsp;
-    <img alt="Arwindhraj" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arwindhraj&layout=compact&theme=dark"  height="192px"/>
-    <br/>
-  </p>
-</details>
+<div align= "center">
+  <img margin="10" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&icon_color=FBCA04&title_color=FBCA04&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&card_width=470&username=Arwindhraj" height="200" alt="stats graph"  /> </div> </br>
+</div>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>             
-   <a href="https://github.com/Arwindhraj">Recent Activity</a>
-  <br/>
-</details>
+<div align="center">
+  <img margin="10" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&icon_color=FBCA04&title_color=FBCA04&hide_border=false&username=Arwindhraj" height="200" alt="languages graph" />
+  <br /><br />
+</div>
+<div align="center" >
 
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arwindhraj&height="200"&theme=dark&card_width=485&icon_color=FBCA04&title_color=FBCA04&hide_border=false)](https://git.io/streak-stats)
+
+<br>
 
