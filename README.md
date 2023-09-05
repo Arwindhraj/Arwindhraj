@@ -100,21 +100,17 @@
 
 <h2> GitHub Stats </h2>
 
-<div align= "center">
-  <img margin="10" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&icon_color=FBCA04&title_color=FBCA04&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&card_width=470&username=Arwindhraj" height="200" alt="stats graph"  /> </div> </br>
-</div>
 
-<div align="center">
-  <img margin="10" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&icon_color=FBCA04&title_color=FBCA04&hide_border=false&username=Arwindhraj" height="200" alt="languages graph" />
-  <br /><br />
-</div>
 <div align="center" >
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arwindhraj&layout=compact&theme=radical)
+  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arwindhraj&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arwindhraj&height="200"&theme=dark&card_width=485&icon_color=FBCA04&title_color=FBCA04&hide_border=false)](https://git.io/streak-stats)
 
 <br>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-Arwindhraj&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-Arwindhraj&layout=compact&theme=radical)
+
 
