@@ -98,18 +98,7 @@
 
 ###
 
-<h2> GitHub Stats </h2>
 
-
-<div align="center" >
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arwindhraj&layout=compact&theme=radical)
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arwindhraj&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arwindhraj&height="200"&theme=dark&card_width=485&icon_color=FBCA04&title_color=FBCA04&hide_border=false)](https://git.io/streak-stats)
-
-<br>
 
 
 
