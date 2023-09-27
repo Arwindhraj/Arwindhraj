@@ -3,6 +3,7 @@
 <p align='center'>
 </p>
 
+
 <p align='left'>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=268CFF&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+of+AI+%26+DS;Passionate+about+AI+and+Computer+Vision" />
