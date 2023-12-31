@@ -1,6 +1,6 @@
 #  Hi there, I'm Arwin!
 
-##  Student | Artificial Intelligence and Data Science Enthusiast
+##  Student | Artificial Intelligence Enthusiast
 
 I'm a passionate student eager to make a mark in the world of AI product development. I love the challenge of bringing innovative ideas to life through code and data.
 
@@ -25,11 +25,8 @@ Description: The system excels in monitoring driver drowsiness, enhancing safety
 ##  Experience
 
 - **Student at SREC:** Pursuing a degree in Artificial Intelligence and Data Science
-- **LinkedIn:** [View my profile](https://www.linkedin.com/in/arwindh-raj-0155b621a/) for detailed experience and projects
-
-##  Contact Me
-
-(Add links to your social media, email, or other relevant platforms)
+- **Intern at Bimetal Bearings:** Working on impactful projects involving computer vision and contributing to real-world applications in the industry.
+- **LinkedIn:** [View my profile](https://www.linkedin.com/in/arwindh-raj-0155b621a/) for detailed experience
 
 ##  Learning and Growing
 
