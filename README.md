@@ -6,8 +6,8 @@ I'm a passionate student eager to make a mark in the world of AI product develop
 
 ## ️ Skills and Expertise
 
-- **Programming Languages:** C, Python, 
-- **Frameworks and Tools:** Pytorch, Tensorflow, OpenCV, Flask, Git, React, Docker
+- **Programming Languages:** C, Python, Html, CSS, JavaScript(basic) 
+- **Frameworks and Tools:** Pytorch, Tensorflow, Keras, Scikit-learn, Git, React, Docker
 - **Hardware:** Raspberry Pi, Jetson Nano
 - **Soft Skills:** Excellent listener, adaptive learner, strong teamwork abilities, effective time manager 
 
