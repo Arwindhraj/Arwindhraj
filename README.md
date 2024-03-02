@@ -13,19 +13,19 @@ I'm a passionate student eager to make a mark in the world of AI product develop
 
 ##  Projects
 
-**Machine Vision System for Missing Operation:**
+**Machine Vision System for Missing Operation (Industry Project) :**
 
 Developed a machine vision system to identify missing features in metal pieces for Bimetal Bearing Ltd. Implemented the system across five machines in the production line, enhancing efficiency and ensuring quality control.
 
-**AI-Based Vision Inspection System for Surface Defects:**
+**AI-Based Vision Inspection System for Surface Defects (Industry Project) :**
 
 Engineered an AI-powered vision inspection system to detect surface defects on the inner and outer diameter of metal pieces. Leveraged advanced AI algorithms for precise defect identification, contributing to improved product quality and reduced manufacturing defects.
 
-**AI Based Facial Attendance System:**
+**AI Based Facial Attendance System :**
 
 Developed an AI-based facial recognition system designed to streamline attendance tracking. The system leverages cutting-edge computer vision techniques for accurate recognition and registration of individuals based on their facial features. The system is optimized to run on Raspberry Pi, providing a flexible and accessible solution for attendance monitoring. Additionally, an application is included for convenient attendance management.
 
-**AI-based Attention Assist System:**
+**[AI-based Attention Assist System](https://github.com/Arwindhraj/AI-Attention-assist-system-using-MediaPipe) :**
 
 The system excels in monitoring driver drowsiness, enhancing safety in various scenarios. The system employs computer vision to detect signs of distraction and provides timely alerts. Its adaptability to edge devices makes it a versatile solution for real-time attention monitoring. 
 
