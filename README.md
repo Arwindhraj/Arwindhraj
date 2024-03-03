@@ -13,11 +13,11 @@ I'm a passionate student eager to make a mark in the world of AI product develop
 
 ##  Projects
 
-**Machine Vision System for Missing Operation (Industry Project) :**
+**Machine Vision System for Missing Operation (Bimetal Bearings Limited) :**
 
 Developed a machine vision system to identify missing features in metal pieces for Bimetal Bearing Ltd. Implemented the system across five machines in the production line, enhancing efficiency and ensuring quality control.
 
-**AI-Based Vision Inspection System for Surface Defects (Industry Project) :**
+**AI-Based Vision Inspection System for Surface Defects (Bimetal Bearings Limited) :**
 
 Engineered an AI-powered vision inspection system to detect surface defects on the inner and outer diameter of metal pieces. Leveraged advanced AI algorithms for precise defect identification, contributing to improved product quality and reduced manufacturing defects.
 
@@ -33,7 +33,7 @@ The system excels in monitoring driver drowsiness, enhancing safety in various s
 ##  Experience
 
 - **Student at SREC:** Pursuing a degree in Artificial Intelligence and Data Science
-- **Intern at Bimetal Bearings:** Worked on an impactful projects involving computer vision and contributing to real-world applications in the industry.
+- **Intern at Bimetal Bearings Limited:** Worked on an impactful projects involving computer vision and contributing to real-world applications in the industry.
 - **LinkedIn:** [View my profile](https://www.linkedin.com/in/arwindh-raj-0155b621a/) for detailed experience
 
 ##  Learning and Growing
